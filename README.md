@@ -1,1 +1,3 @@
 # TimeSeriesProbabilisticForcasting
+
+The aim of this project is to build a strong foundation in the field of cutting-edge time series forecasting, both as a means of advancing our educational understanding and serving as an invaluable learning experience. Furthermore, our team is dedicated to incorporating uncertainty estimates in our predictive models, a step we believe is crucial for practical applications and thier acceptance in business environments. While our aspirations are largely rooted in pedagogical purposes, they are motivated by a strong desire to eventually contribute to the research community that has sparked our interest in the real-world implications of machine learning.
